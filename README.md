@@ -36,7 +36,6 @@ I'm a Front End Web developer who is passionate about making error-free websites
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Angon-Sarker&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Angon-Sarker)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Angon-Sarker)  
 
