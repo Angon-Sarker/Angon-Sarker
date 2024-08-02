@@ -1,4 +1,4 @@
-![MERN Stack web developer](https://media.licdn.com/dms/image/D5616AQGIWhAlj7Od9w/profile-displaybackgroundimage-shrink_350_1400/0/1722321832883?e=1727913600&v=beta&t=ZqGm-6mU62NV3ZOHHtdaNkvWamfwhPnKpCMzvbYhIAM)
+![MERN Stack web developer](https://media.licdn.com/dms/image/D5616AQGC4eZrMMBseQ/profile-displaybackgroundimage-shrink_350_1400/0/1722586029490?e=1727913600&v=beta&t=xByazLO0ZFK4QBWhnWCKw1lSNjF5AJx54HnqRsw8jzY)
 
 ### 👋Hello, I'm Angon Sarker
 #### MERN Stack web developer
