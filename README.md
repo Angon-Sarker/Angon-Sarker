@@ -24,8 +24,9 @@ I'm a Front End Web developer who is passionate about making error-free websites
 
 👨🏻‍🎓  Education
 
-1.M.Sc. in Telecommunication Enfineering, AIUB Bangladesh.
-2.B.Sc. in Electrical & Electronics Engineering, AIUB Bangladesh.
+ 1.M.Sc. in Telecommunication Enfineering, AIUB Bangladesh.
+ 
+ 2.B.Sc. in Electrical & Electronics Engineering, AIUB Bangladesh.
 
 
 
