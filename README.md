@@ -40,8 +40,8 @@ I'm a Front End Web developer who is passionate about making error-free websites
 
 Languages:
 
--🇧🇩 Bangla : Native
--🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
+- 🇧🇩 Bangla : Native
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
  
 
 
