@@ -34,9 +34,9 @@ I'm a MERN Stack developer who is passionate about making error-free websites wi
 
 👨🏻‍🎓  Education
 
-     1.M.Sc. in Telecommunication Enfineering, AIUB Bangladesh.
+1.M.Sc. in Telecommunication Engineering, AIUB Bangladesh.
  
-     2.B.Sc. in Electrical & Electronics Engineering, AIUB Bangladesh.
+2.B.Sc. in Electrical & Electronics Engineering, AIUB Bangladesh.
 
 
 Languages:
