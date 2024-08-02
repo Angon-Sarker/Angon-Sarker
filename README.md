@@ -22,6 +22,15 @@ I'm a Front End Web developer who is passionate about making error-free websites
 - Bootstrap
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angon-Sarker)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Angon-Sarker&show_icons=true)  
+
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Angon-Sarker)  
+
+
+
 👨🏻‍🎓  Education
 
      1.M.Sc. in Telecommunication Enfineering, AIUB Bangladesh.
@@ -32,10 +41,5 @@ I'm a Front End Web developer who is passionate about making error-free websites
 
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angon-Sarker)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Angon-Sarker&show_icons=true)  
-
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Angon-Sarker)  
 
