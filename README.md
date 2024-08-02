@@ -38,7 +38,9 @@ I'm a Front End Web developer who is passionate about making error-free websites
      2.B.Sc. in Electrical & Electronics Engineering, AIUB Bangladesh.
 
 
-
+Languages:
+🇧🇩 Bangla : Native
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
  
 
 
