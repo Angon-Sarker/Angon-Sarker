@@ -49,6 +49,13 @@ Sports / Game / Activities / Hobby:
 - 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
 - ✈️ Travelling
 
+--------------------------------------------------------------------------
+
+Thanks for going through my Portfolio. All rights reserved by Angon Sarker
+
+--------------------------------------------------------------------------
+
+
 
 
 
