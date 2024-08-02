@@ -2,7 +2,7 @@
 
 ### 👋Hello, I'm Angon Sarker
 -----------------------------
-#### MERN Stack web developer
+#### MERN Stack developer
 🏠   Living: Dhaka, Bangladesh
 
 
@@ -12,7 +12,7 @@
 
 👨‍🏫   About Me
 
-I'm a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others s publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time i work with wordpress but some technologies i enjoy working with include ReactJS, JavaScript as well as PHP.
+I'm a MERN Stack developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others s publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time i work with wordpress but some technologies i enjoy working with include ReactJS, JavaScript as well as PHP.
 
 
 👉 My Skills: 
